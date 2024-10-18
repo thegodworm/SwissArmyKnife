@@ -6,7 +6,7 @@
 #include "PWM_Servo_DCmotor.h"
 #include "Tools.h"
 
-const String SSID = "CAN Bayonet 2000 ";
+const String SSID = "The Gentleman ToothPick";
 
 EasyOsc com(SSID); // <======== configure your own wifi network
 // DEFAULT OSC OUTPUT PORT 9999
